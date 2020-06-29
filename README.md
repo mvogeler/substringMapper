@@ -1,2 +1,2 @@
 # substringMapper
-Searches a string for an array of smaller strings, returns a mapping of each string to it's location in the big string
+Given a string b and an array of smaller strings T, design a method to search b for each small string in T. Return a mapping of each string to a list of it's locations.
